@@ -94,9 +94,8 @@ function App() {
       )}
     </div>
   );
-
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/fortnitedb-hyperlink-mockup">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="hero/:name" element={<HeroPage heroes={heroes} />} />
