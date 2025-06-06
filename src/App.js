@@ -49,7 +49,7 @@ function App() {
 
   const Home = () => (
     <div className="container">
-      <h1>Hero Links: Non‐Quicklink vs. Quicklink (Internal Mockup)</h1>
+      <h1>Hero Links Examples: Regular Hyperlink vs. Quicklink (Image Preload)</h1>
       <div className="lists">
         <div className="column">
           <h2>Non‐Quicklink (plain Link to mockup)</h2>
