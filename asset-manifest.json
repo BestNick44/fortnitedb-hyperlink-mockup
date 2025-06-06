@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fortnitedb-hyperlink-mockup/static/css/main.2c8be1af.css",
+    "main.js": "/fortnitedb-hyperlink-mockup/static/js/main.67da23bc.js",
+    "static/js/453.f93d0a04.chunk.js": "/fortnitedb-hyperlink-mockup/static/js/453.f93d0a04.chunk.js",
+    "index.html": "/fortnitedb-hyperlink-mockup/index.html",
+    "main.2c8be1af.css.map": "/fortnitedb-hyperlink-mockup/static/css/main.2c8be1af.css.map",
+    "main.67da23bc.js.map": "/fortnitedb-hyperlink-mockup/static/js/main.67da23bc.js.map",
+    "453.f93d0a04.chunk.js.map": "/fortnitedb-hyperlink-mockup/static/js/453.f93d0a04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c8be1af.css",
+    "static/js/main.67da23bc.js"
+  ]
+}
