@@ -1,0 +1,74 @@
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  font-family: Arial, sans-serif;
+  
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.lists {
+  display: flex;
+  gap: 40px;
+}
+
+.column {
+  flex: 1;
+}
+
+.column h2 {
+  margin-bottom: 12px;
+  font-size: 1.2rem;
+}
+
+.column ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.column li {
+  margin-bottom: 8px;
+}
+
+.column a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.column a:hover {
+  text-decoration: underline;
+}
+
+.note {
+  margin-top: 16px;
+  font-size: 0.9rem;
+  color: #555;
+}
+/* ───── New styles for Preloaded Images Preview ───── */
+
+.preloaded-preview {
+  margin-top: 40px;
+}
+
+.preloaded-preview h2 {
+  margin-bottom: 16px;
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+.image-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+}
+
+.preview-img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border: 1px solid #ccc;
+}
